@@ -24,6 +24,7 @@ BOOL is_palindrome(char arr[],int n){
         h--;
     }
     return 1;
+    
 
 }
 
